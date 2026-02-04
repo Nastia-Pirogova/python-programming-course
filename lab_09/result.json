@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Turkey",
+    "area_km2": 783356,
+    "population": 85000000,
+    "part": "Asia"
+  },
+  {
+    "name": "Egypt",
+    "area_km2": 1002450,
+    "population": 110000000,
+    "part": "Africa"
+  },
+  {
+    "name": "Nigeria",
+    "area_km2": 923768,
+    "population": 223000000,
+    "part": "Africa"
+  },
+  {
+    "name": "Japan",
+    "area_km2": 377975,
+    "population": 124000000,
+    "part": "Asia"
+  },
+  {
+    "name": "India",
+    "area_km2": 3287263,
+    "population": 1420000000,
+    "part": "Asia"
+  }
+]
